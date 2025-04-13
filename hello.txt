@@ -1,9 +1,6 @@
 Adarsh 
 Vishruth
-<<<<<<< HEAD
-hi i am vishruth
-=======
 adu
 Hello Good evening
 hai
->>>>>>> d2bebd6 (hello updated)
+everyone
