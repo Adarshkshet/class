@@ -1,7 +1,14 @@
 Adarsh 
 Vishruth
+ hello
 adu
 Hello Good evening
 hai
 everyone
+<<<<<<< HEAD
 haiii
+=======
+hi i am vishruth
+hello good evening
+master
+>>>>>>> 5bda68a1996c5b5227b5b38e81be3080bc015fc8
